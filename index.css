@@ -1,11 +1,5 @@
-/* ==========================
-   Google Font
-========================== */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
-/* ==========================
-   Reset
-========================== */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
 *{
     margin:0;
@@ -24,9 +18,7 @@ body{
     line-height:1.7;
 }
 
-/* ==========================
-   Header
-========================== */
+/* Header */
 
 header{
     background:linear-gradient(135deg,#0f766e,#14b8a6);
@@ -44,9 +36,7 @@ header p{
     font-size:1.1rem;
 }
 
-/* ==========================
-   Navigation
-========================== */
+/*Navigation*/
 
 nav{
     margin-top:30px;
@@ -74,9 +64,7 @@ nav a:hover{
     color:#0f766e;
 }
 
-/* ==========================
-   Main
-========================== */
+/* Main Content */
 
 main{
     width:90%;
@@ -84,9 +72,7 @@ main{
     margin:40px auto;
 }
 
-/* ==========================
-   Sections
-========================== */
+/* Sections */
 
 section{
     background:white;
@@ -104,9 +90,7 @@ section h2{
     padding-bottom:6px;
 }
 
-/* ==========================
-   Hero Section
-========================== */
+/* Hero Section */
 
 #hero{
     text-align:center;
@@ -136,9 +120,7 @@ section h2{
     margin:0 auto;
 }
 
-/* ==========================
-   Button
-========================== */
+/* Buttons */
 
 button{
     margin-top:25px;
@@ -157,9 +139,7 @@ button:hover{
     transform:translateY(-3px);
 }
 
-/* ==========================
-   Skills
-========================== */
+/* Skills Section */
 
 #skills{
     display:flex;
@@ -193,9 +173,7 @@ button:hover{
     margin-bottom:8px;
 }
 
-/* ==========================
-   Hobbies
-========================== */
+/* Hobbies Section */
 
 #hobbies ul{
     padding-left:20px;
@@ -205,9 +183,7 @@ button:hover{
     margin-bottom:10px;
 }
 
-/* ==========================
-   Education
-========================== */
+/*Education */
 
 #education article{
     background:#f8fafc;
@@ -216,9 +192,7 @@ button:hover{
     border-left:5px solid #0f766e;
 }
 
-/* ==========================
-   Projects
-========================== */
+/*Projects*/
 
 #projects article{
     background:#f8fafc;
@@ -234,9 +208,7 @@ button:hover{
     box-shadow:0 8px 20px rgba(0,0,0,.12);
 }
 
-/* ==========================
-   Contact
-========================== */
+/*Contact*/
 
 #contact p{
     margin-bottom:15px;
@@ -252,9 +224,7 @@ button:hover{
     text-decoration:underline;
 }
 
-/* ==========================
-   Footer
-========================== */
+/*Footer*/
 
 footer{
     background:#0f766e;
@@ -267,9 +237,7 @@ footer p{
     margin:8px;
 }
 
-/* ==========================
-   Horizontal Line
-========================== */
+/*Horizontal Line*/
 
 hr{
     width:90%;
@@ -279,9 +247,7 @@ hr{
     background:#d1d5db;
 }
 
-/* ==========================
-   Responsive Design
-========================== */
+/*Responsive Design*/
 
 @media(max-width:768px){
 
