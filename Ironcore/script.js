@@ -1,13 +1,3 @@
-/*=====================================================
-    IRONCORE FITNESS
-    JAVASCRIPT PART 1
-=====================================================*/
-
-
-/*=====================================================
-    MOBILE MENU
-=====================================================*/
-
 const menuBtn = document.querySelector(".menu-btn");
 const navLinks = document.querySelector(".nav-links");
 
@@ -30,8 +20,6 @@ menuBtn.addEventListener("click", () => {
     }
 
 });
-
-
 /*=====================================================
     CLOSE MENU AFTER CLICKING A LINK
 =====================================================*/
